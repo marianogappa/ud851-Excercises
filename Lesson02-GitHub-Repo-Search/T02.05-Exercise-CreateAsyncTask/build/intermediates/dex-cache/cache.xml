@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_225e588d6a3fa582c434be45d62f4ec3544f67d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_17471e40ef6e384459854f37fab0246363c1c7d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_f6ef16a0dfc761ec54abadad7cabfd8acf109ecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_dbb6dd518387525e7dfab64caf5eed76129ceab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_f890f0034726d2a59d7c53d211e9e92fca7ead8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_4330dce456013cafda2437baefe4b58ae07f875b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_71836eb06a77fb6bc93a5e9f377dcf873199ea05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marianol/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_582591d84fa8d5fd3037bcd2c0885be040f097fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_aa8feb6ca65fbbf381f3eab36a21fba1c62bdb7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_793b56df5b4c82a9f494cc4c29c9cc68f3a6a365.jar" />
+    </item>
+
+</items>
