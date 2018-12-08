@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/marianol/Code/ud851-Exercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/marianol/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9d68dd0c0e3358b002e38ce0c958a352/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Mon Nov 26 22:17:19 ART 2018
+base.0=/Users/marianol/Code/ud851-Exercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
