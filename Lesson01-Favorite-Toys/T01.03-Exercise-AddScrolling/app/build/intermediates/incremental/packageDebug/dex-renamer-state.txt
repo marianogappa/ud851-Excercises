@@ -1,0 +1,4 @@
+#Mon Nov 26 22:25:15 ART 2018
+base.0=/Users/marianol/Code/ud851-Exercises/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/marianol/Code/ud851-Exercises/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

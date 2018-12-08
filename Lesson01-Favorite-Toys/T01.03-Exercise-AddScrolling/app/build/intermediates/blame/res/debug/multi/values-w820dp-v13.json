@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/marianol/Code/ud851-Exercises/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/marianol/Code/ud851-Exercises/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endColumn": 57,
+                        "endOffset": 952
+                    }
+                }
+            }
+        ]
+    }
+]
