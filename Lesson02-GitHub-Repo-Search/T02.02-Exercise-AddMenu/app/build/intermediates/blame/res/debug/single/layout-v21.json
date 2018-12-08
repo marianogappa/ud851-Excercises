@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/marianol/Code/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+    }
+]
